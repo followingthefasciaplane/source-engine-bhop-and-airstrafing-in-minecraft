@@ -1,6 +1,5 @@
 
-Very very crude attempt at source style airacceleration and bhop in Minecraft (Forge)
-
+Very very crude attempt at source style airacceleration and bhop in Minecraft (Forge). You can change the acceleration settings in the code.
 
 - **Air Strafing**: When a player is in the air, they can adjust their direction using the A and D keys. The player's horizontal movement speed in the air can be adjusted based on their strafing input.
 - **Automatic Bunny Hopping**: By holding the space bar, players will automatically jump upon landing, enabling continuous hopping, or "bunny hopping."
